@@ -1,6 +1,3 @@
 # test-repo
 
-first commit
-2nd commit
-3rd commit
-4th commit after adding deploy keys
+1st commit
