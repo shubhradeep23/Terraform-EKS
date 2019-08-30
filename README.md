@@ -4,3 +4,4 @@
 test github jenkins integration
 2nd test jenkins
 testing github webhook with jenkins
+testing ansible playbook using jenkins trigger poll scm
