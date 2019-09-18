@@ -1,5 +1,3 @@
 # test-repo
+will start creating youtube video tutorial for this devops project
 
-testing jenkins pipeline with k8 playbooks
-testing jenkins pipeline for the 2nd time after changes to the pipeline
-testing 3rd time
